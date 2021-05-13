@@ -2,7 +2,7 @@
 
 <h3 align="left">🙋‍♂️ About me:</h3>
 
-- 🇧🇷 I'm brazillian
+- 🇧🇷 I'm brazilian
 - 👴 I'm 19 years old
 - 📝 I’m currently studying on **IFPI - Instituto Federal do Piauí**
 
