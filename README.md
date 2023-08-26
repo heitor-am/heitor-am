@@ -3,7 +3,7 @@
 <h3 align="left">🙋‍♂️ About me:</h3>
 
 - 🇧🇷 I'm brazilian
-- 👴 I'm 20 years old
+- 🧠 I'm learning Django and Vue.js
 - 📝 I’m currently studying on **UFPI - Universidade Federal do Piauí**
 
 <h3 align="left">💻 Languages and Tools:</h3>
