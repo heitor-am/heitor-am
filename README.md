@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Heitor Moura 👋
 
-<!--
-**heitor-am/heitor-am** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A Brazilian Software Engineer focused on backend development and Generative AI. I specialize in Python and FastAPI, building autonomous LLM agents, async processing pipelines, and RAG systems that run in production.
 
-Here are some ideas to get you started:
+🧪 **Experienced with:**<br>
+Python · FastAPI · LangGraph · LangChain · Celery · PostgreSQL · MongoDB · Qdrant · Docker · Redis · RabbitMQ
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 **Currently working with:**<br>
+Autonomous AI agents with LangGraph, async document processing pipelines with Celery, and hybrid search systems with vector databases.
+
+📍 **Based in:** Brazil (open to remote)<br>
+🧭 **Currently exploring:** System architecture, observability, and multi-agent orchestration patterns
+
+---
+
+🍊 **A bit about my journey:**<br>
+I started in academic computing, went through web development and infrastructure, and found my focus in backend systems for AI products. Today I build production-grade LLM agents, document processing platforms, and developer tools. I'm aiming for international remote opportunities where I can solve meaningful problems at scale.
+
+---
+
+🏗️ **Find me here:**<br>
+[LinkedIn](https://linkedin.com/in/heitor-am) · [Email](mailto:heitorandrade2001@gmail.com) · [Resume (PDF)](./resume.pdf)
+
+---
+
+*Always open to learning, collaborating, and building great software — wherever the team is.*
