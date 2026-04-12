@@ -14,7 +14,7 @@ Autonomous AI agents with LangGraph, async document processing pipelines with Ce
 ---
 
 🍊 **A bit about my journey:**<br>
-I started in academic computing, went through web development and infrastructure, and found my focus in backend systems for AI products. Today I build production-grade LLM agents, document processing platforms, and developer tools. I'm aiming for international remote opportunities where I can solve meaningful problems at scale.
+I started in academic computing, went through web development and infrastructure, and found my focus in backend systems for AI products. Today I build production-grade LLM agents, document processing platforms, and developer tools. Focused on shipping LLM applications that handle real users, real data, and real edge cases.
 
 ---
 
